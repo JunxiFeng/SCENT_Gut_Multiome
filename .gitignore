@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+prepared/
+prepared_smoke/
+results/
+results_smoke/
+logs/
+logs_smoke/
